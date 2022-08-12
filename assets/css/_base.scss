@@ -35,6 +35,7 @@ code {
   font-family: monospace,monospace;
   font-size: 1em;
   color: rgba($light-color, .8);
+  background: rgba(0,0,0, .20);
 }
 
 pre {
@@ -52,8 +53,8 @@ pre {
 }
 
 ::selection {
-  background: rgba($light-color, .25);
+  background: rgba(71, 0, 112, 0.93);
 }
 ::-moz-selection {
-  background: rgba($light-color, .25);
+  background: rgba(71, 0, 112, 0.93);
 }
